@@ -260,6 +260,5 @@ class CiphertextMessage(Message):
 # print('Actual Output:', plaintext.get_message_text_encrypted())
 
 # Example test case (CiphertextMessage)
-ciphertext = CiphertextMessage('rkmusxq')
-print('Expected Output:', (24, 'hello'))
-print('Actual Output:', ciphertext.decrypt_message())
+ciphertext = CiphertextMessage(get_story_string())
+print('Output:', ciphertext.decrypt_message())
