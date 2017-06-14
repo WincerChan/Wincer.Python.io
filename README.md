@@ -70,11 +70,11 @@ $ python get_ss.py
 
 ---
 
-### 5.Baker‘s Game
+### 5.Baker's Game
 
 类似空当接龙的一个命令行的小游戏
 
-![](https://ws1.sinaimg.cn/large/ba22af52gy1fgkxwr3z25j20qt0igwg9.jpg)
+![Baker's Game](img/Baker'sGame.png)
 
 详情见pdf文件
 
