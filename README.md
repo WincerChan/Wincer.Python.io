@@ -67,3 +67,20 @@ $ python get_ss.py
 ```
 
 爬取的二维码和配置信息保存在源文件的文件夹中。
+
+---
+
+### 5.Baker‘s Game
+
+类似空当接龙的一个命令行的小游戏
+
+![](https://ws1.sinaimg.cn/large/ba22af52gy1fgkxwr3z25j20qt0igwg9.jpg)
+
+详情见pdf文件
+
+运行：
+
+```python
+$ python proj10.py
+```
+
